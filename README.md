@@ -18,8 +18,8 @@
 
   ---
   
-  <img src="assets/strawcore_banner.png" width="100%" alt="StrawCore AI Mission Control"> 
-  *(Note: The above is a conceptual mockup of the StrawCore AI Mission Control Center)*
+  <img src="assets/strawcore_banner_v3.png" width="100%" alt="StrawCore AI Cosmic Banner"> 
+  <br>
 
 </div>
 
