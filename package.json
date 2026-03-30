@@ -1,0 +1,19 @@
+{
+  "name": "straw-core-ai",
+  "version": "2.0.4",
+  "description": "The Ultimate Autonomous Agency: High-stakes AI missions for Cybersecurity, Development, and Automation.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autonomous",
+    "ai",
+    "agent",
+    "kali",
+    "docker",
+    "cybersecurity"
+  ],
+  "author": "StrawCore AI Team",
+  "license": "Proprietary"
+}
